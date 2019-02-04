@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DownloadDemo</string>
+    <string name="complete_download_message">File Download Complete</string>
+    <string name="download_progress_message">Downloaded (%d/%d) MB</string>
+</resources>
